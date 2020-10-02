@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99cb4042-f116-4540-86f3-510681f36ab6" name="Default Changelist" comment="" />
+    <list default="true" id="99cb4042-f116-4540-86f3-510681f36ab6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/AddToCart/step_definitions/API_TestSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/AddToCart/step_definitions/API_TestSteps.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +33,11 @@
   <component name="ProjectId" id="1STMHNZN29tT8oO9oe4mmcDZDDW" />
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569353562010" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/AddToCart/step_definitions" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -59,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: APITest">
+  <component name="RunManager" selected="Cucumber java.Scenario: User should be able to get featured products (1)">
     <configuration name="Feature: APITest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/AddToCart/APITest.Feature" />
@@ -151,9 +155,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: APITest" />
-        <item itemvalue="Cucumber java.Feature: AddToCart" />
         <item itemvalue="Cucumber java.Scenario: User should be able to get featured products (1)" />
+        <item itemvalue="Cucumber java.Feature: AddToCart" />
+        <item itemvalue="Cucumber java.Feature: APITest" />
         <item itemvalue="Cucumber java.Scenario: add item to shopping cart" />
         <item itemvalue="JUnit.TestRunner" />
       </list>
